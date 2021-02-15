@@ -11,11 +11,11 @@ Dit document is opgesteld om wat duidelijkheid te bieden wat betreft het streame
 * Mocht je iets zien bij een andere streamer wat je niet bevalt. Spreek dan een stafflid aan.
 * FailRP, RDM, VDM en dat soort zaken On-Stream (ook off-stream natuurlijk) wordt direct bestraft.
 * De naam Tedeapolis moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
-* Het is niet toegestaan om drugs locaties te streamen.
+* Het is niet toegestaan om drugs locaties op het vasteland van Tedeapolis te streamen.
 
 ## Sancties
 
-* Bij het streamen van een drugs locatie zal er een ban van een week uitgedeeld voor de eerste keer bij een volgende overtreding zal er overworden gegaan naar een ban van een maand.
+* Bij het streamen van alle drugs gerelateerde locaties op het vasteland van Tedeapolis zal er bij de eerste overtreding een ban van een week worden uitgedeeld, bij een volgende overtreding zal er over worden gegaan naar een ban van een maand.
 
 ## Bepaling en rechten
 
